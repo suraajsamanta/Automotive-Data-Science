@@ -1,4 +1,4 @@
-# Automotive-Data-Science
+# Vehicle-Data-Science
 Uses Numpy, Pandas, Web Scraping, BeautifulSoup, Requests, Json, APIs, Seaborn, SciPy, MatPlotLib, PyQT5 to analyze and map automotive data on Fuel Economy, Sales, and Ratings.
 
 # **Phase 1**

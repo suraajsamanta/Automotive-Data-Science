@@ -1,6 +1,6 @@
 # Automotive-Data-Science
 Uses Numpy, Pandas, Web Scraping, BeautifulSoup, Requests, Json, APIs, Seaborn, SciPy, MatPlotLib, PyQT5 to analyze and map automotive data on Fuel Economy, Sales, and Ratings.
-
+/n
 Phase 1-
 2017, 2018, 2019, 2020 csv files - Government data on US Vehicle Fuel Economy
 PhaseI.pynb - Main Jupyter notebook file that parses, collects, cleans, splices and stores the data
